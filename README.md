@@ -8,10 +8,10 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 - 🌐 Argentinian in Europe
-- 📘 Passionate about graphic design
+- 🎨 Graphic design enthusiast with a keen eye for detail
 - 🌱 Currently learning web development 
-- ☕ I survive on coffee, music and a little black cat
-- 💬 Ask me about anything, I love to answer!
+- ☕ Fueled by coffee, inspired by music, and accompanied by a little black cat
+- 💬 Curious mind, open to great conversations—ask me anything!
 - 📫 Email me at [rivarola2602@gmail.com](mailto:rivarola2602@gmail.com).
 
 
